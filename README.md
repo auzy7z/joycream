@@ -4,7 +4,7 @@
 
 # Joycream AI
 
-AI yang dikembangkan untuk interaksi dinamis dengan pengguna di platform Discord berbasis Generative Pre-trained Transformer (GPT)
+AI developed for dynamic interaction with users on the Discord platform based on Generative Pre-trained Transformer (GPT).
 
 
 ## Installation
@@ -34,10 +34,11 @@ To run this project, you will need to add the following environment variables
 
 ## Features
 
-- Berinteraksi dengan pengguna berdasarkan model GPT
-- Memoderasi pesan untuk mendeteksi konten harmful
-- Mengelola perubahan role di server Discord
-- Menyimpan dan mengingat interaksi pengguna.
+- Interacts with users based on the GPT model
+- Moderates messages to detect harmful content
+- Manages role changes on the Discord server
+- Stores and remembers user interactions.
+
 ## Authors
 
 - [@auzy7z](https://www.github.com/auzy7z)
