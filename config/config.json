@@ -1,0 +1,5 @@
+{
+    "token": "YOUR_DISCORD_BOT_TOKEN",
+    "gpt_model": "gpt2",
+    "max_length": 50
+}
